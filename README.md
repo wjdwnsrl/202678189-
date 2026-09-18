@@ -2,8 +2,8 @@
   <h1>김한신의 포트폴리오</h1>
   <nav>
     <ul>
-      <li><a href="#about">소개</a></li>
-      <li><a href="#work">작업물</a></li>
+      <li><a href="#about">정준기</a></li>
+      <li><a href="#work">3주차</a></li>
     </ul>
   </nav>
 </header>
